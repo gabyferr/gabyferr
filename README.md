@@ -5,8 +5,7 @@
 - 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.
 - 🔍 Em busca da primeira oportunidades de empredo.
 
-<div align="center">Hello 👋</h1>
-    <hr />
+<div align="center">
   <a href="https://github.com/gabyferr">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabyferr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyferr&layout=compact&langs_count=7&theme=dark"/>
