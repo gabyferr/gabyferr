@@ -3,7 +3,6 @@
 - 🖥️ Sou estudante de graduação em Analise e Desenvolvimento de Sisstemas.
 - 👩‍🚀 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.
 - 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.
-- 🔍 Em busca da primeira oportunidades de empredo.
 
 <div align="center">
   <a href="https://github.com/gabyferr">
