@@ -1,6 +1,6 @@
 ## Bem vindo! Eu sou Gabriélly Custódio.
 
-- 🖥️ Sou estudante de graduação em Analise e Desenvolvimento de Sisstemas.
+- 🖥️ Sou estudante de graduação em Analise e Desenvolvimento de Sistemas.
 - 👩‍🚀 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.
 - 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.
 - 💻 Sou estagiária na Precisão Sistemas na área de desenvolvimento mobile.
