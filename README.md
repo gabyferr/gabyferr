@@ -3,7 +3,7 @@
 - 🖥️ Sou estudante de graduação em Analise e Desenvolvimento de Sistemas.
 - 👩‍🚀 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.
 - 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.
-- 💻 Sou estagiária na Precisão Sistemas na área de desenvolvimento mobile.
+- 💻 Atuei como estagiária na Precisão Sistemas, na área de desenvolvimento mobile, de maio de 2023 a outubro de 2024.
 
 <div align="center">
   <a href="https://github.com/gabyferr">
